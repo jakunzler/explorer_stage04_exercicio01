@@ -24,6 +24,7 @@ Exercício do Stage 04 de criar funções para realizar operações na Página W
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
+- JavaScript
 - Git e Github
 - Figma
 
